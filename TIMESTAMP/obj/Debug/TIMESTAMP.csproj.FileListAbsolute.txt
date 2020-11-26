@@ -1,0 +1,17 @@
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\bin\Debug\TIMESTAMP.exe
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\bin\Debug\TIMESTAMP.pdb
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.Properties.Resources.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.csproj.GenerateResource.Cache
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.exe.licenses
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.exe
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.pdb
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.AboutProgram.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.Main_Form.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.scanform.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.Lock.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.csprojResolveAssemblyReference.cache
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\bin\Debug\MySql.Data.dll
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.Time_OUT.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.add_role.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.view_record.resources
+C:\Users\Kitt Cymonne\Documents\SOFTWARE ENGINEERING\TIMESTAMP\TIMESTAMP\obj\Debug\TIMESTAMP.add_file_path.resources
