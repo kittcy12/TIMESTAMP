@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Nov 26, 2020 at 12:37 PM
+-- Generation Time: Nov 26, 2020 at 12:54 PM
 -- Server version: 5.1.41
 -- PHP Version: 5.3.1
 
@@ -59,8 +59,7 @@ CREATE TABLE IF NOT EXISTS `file_path` (
 --
 
 INSERT INTO `file_path` (`file_id`, `file_location`) VALUES
-(1, 'C:\\Users\\Kitt Cymonne\\Documents\\PAGE\\ML PLAYS'),
-(2, ' C:UsersKitt CymonneDocumentsPAGEML PLAYS');
+(1, '');
 
 -- --------------------------------------------------------
 
